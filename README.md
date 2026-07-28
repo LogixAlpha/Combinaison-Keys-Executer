@@ -4,13 +4,13 @@
 **REQUIREMENTS**
 <br>
 
-*Windows* :
+***Windows*** :
 
 Keyboard Library!
 
 `pip install keyboard`
 
-*Linux*
+~***Linux***~
 
 `SOON`
 
