@@ -10,10 +10,10 @@ Keyboard Library!
 
 `pip install keyboard`
 
-~***Linux***~
+~***Linux***~ :
 
 `SOON`
 
 <hr>
 
-**ADDED MORE BUGS TO FIX LATER**
+**ADDED MORE BUGS TO FIX LATER !**
